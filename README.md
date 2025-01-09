@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Chandra</h1>
-<h3 align="center">I'm a web developer and an aspiring Data Scientist/Analyst. Connect with me on LinkedIn.</h3>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saichandra1011" alt="saichandra1011" /></a> </p>
 
