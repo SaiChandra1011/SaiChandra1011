@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/titter1011" target="blank"><img src="https://img.shields.io/twitter/follow/titter1011?logo=twitter&style=for-the-badge" alt="titter1011" /></a> </p>
 
-- 🌱 I’m currently learning **React,PowerBI**
+- 🌱 I’m currently learning **React, DataBases**
 
 - 📫 How to reach me **saichandra1001@gmail.com**
 
